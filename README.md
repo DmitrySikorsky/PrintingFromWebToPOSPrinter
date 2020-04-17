@@ -1,11 +1,11 @@
 # Printing From Web to POS Printer
 This is a demo application for the
-“[How to Print From a Web Page to a POS Printer](http://sikorsky.pro/en/blog/how-to-print-from-a-web-page-to-a-pos-printer)”
-post on the [Dmitry Sikorsky’s blog](http://sikorsky.pro/en/blog).
+“[How to Print From a Web Page to a POS Printer](https://medium.com/@dmitry.a.sikorsky/how-to-print-from-a-web-page-to-a-pos-printer-8d5b39fc975b)”
+post on the [Dmitry Sikorsky’s blog](https://medium.com/@dmitry.a.sikorsky).
 It shows how to send print requests from a web page directly to a POS (or any other) printer.
 
 The result looks like this:
-![Printing From Web to POS Printer](http://sikorsky.pro/images/github/how-to-print-from-a-web-page-to-a-pos-printer/result.jpg)
+![Printing From Web to POS Printer]((result.jpg))
 *Printing From Web to POS Printer*
 
 ## Using the Application
