@@ -5,7 +5,7 @@ post on the [Dmitry Sikorsky’s blog](https://medium.com/@dmitry.a.sikorsky).
 It shows how to send print requests from a web page directly to a POS (or any other) printer.
 
 The result looks like this:
-![Printing From Web to POS Printer]((result.jpg))
+![Printing From Web to POS Printer](result.jpg)
 *Printing From Web to POS Printer*
 
 ## Using the Application
